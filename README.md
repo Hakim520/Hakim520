@@ -2,7 +2,7 @@
 - Computer science student
 - 👀 I’m interested in Application developpement
 - 🌱 I’m currently learning programming languages (C,python,..)
-- 📫 How to reach me : kadem.abdelhakim@gmail.com
+- 📫 How to reach me : hakimkdem@gmail.com
 
 
 <!---
