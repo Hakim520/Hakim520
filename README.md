@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Hakim
-- Computer science student
-- 👀 I’m interested in Application developpement
-- 🌱 I’m currently learning programming languages (C,python,..)
+- 👋 Hey, I’m Hakim
+- 🤖 AI Student
+- </> WEB Developer
 - 📫 How to reach me : hakimkdem@gmail.com
 
 
